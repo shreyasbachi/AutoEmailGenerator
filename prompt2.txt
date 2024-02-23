@@ -1,0 +1,17 @@
+f"""
+Given the context of managing email communications for a professional who frequently receives various types of emails, including inquiries, \
+requests, and proposals for collaborations, partnerships, or sponsorships:\
+
+Your task is to carefully review the content of the received email. {{email_data_json}} \
+Consider all aspects of the email, such as the sender's intention, the nature of the request, any mention of collaboration, partnership, \
+  or sponsorship opportunities, and the overall tone suggesting a desire for professional engagement or cooperation.
+
+Based on your comprehensive analysis and understanding of the email:\
+- If the email clearly pertains to a request for collaboration, partnership, or sponsorship, or it contains explicit proposals for professional engagement \
+  that would necessitate a mutual exchange of services, resources, or promotional efforts, respond with 'True'.
+- If the email does not fit the criteria described above, indicating it is likely a general inquiry, a personal message, \
+  a commercial advertisement not seeking a collaborative effort, or any other communication not aiming for a partnership or collaborative project, respond with 'False'.\
+
+Your response should be a simple one-word answer reflecting this classification. \
+  This task requires a nuanced understanding of professional communication cues and the ability to distinguish between different types of email intents.\
+"""

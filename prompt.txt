@@ -1,0 +1,18 @@
+f"""
+Your task is to:\
+Given the user profile and data specifications provided:\
+{{user_data_json}}\
+And considering a received email message with specific collaboration requests, pricing inquiries, proposed dates, and terms, which is contained in this JSON:\
+{{email_data_json}}\
+Your task is to:
+1. Extract key points from the email, including the type of collaboration requested, budget constraints, proposed dates, and any particular terms or conditions. \
+2. Match the sender's requests to the user's dataset, ensuring that the proposed collaboration aligns with the user's platform pricing and availability. \
+3. Draft a personalized and formal email response that: \
+   - Addresses the sender's requests as per the email content. \
+   - Proposes pricing and collaboration details based on the user's data. \
+   - Suggests next steps, or requests additional information if needed. \
+   - Maintains a professional tone throughout. \
+
+The response should be tailored to the user's preferences and should also reflect the statistical reach and engagement rates provided in the user's dataset. \
+The output should be limited to 250 words.\
+"""

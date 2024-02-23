@@ -1,0 +1,43 @@
+{
+    "profile": {
+      "name": "Max Grabel",
+      "email": "maxgrabelbusiness@gmail.com",
+      "role": "DJ & Music Creator",
+      "description": "Max Grabel, originally a celebrated Live DJ from Michigan, skillfully pivoted to the digital world amidst COVID-19. He rapidly grew a loyal following in the millions on TikTok, Instagram, and YouTube by sharing unique mixes and top song reviews, posting 4-6 times weekly."
+    },
+    "metrics": {
+      "tiktok_followers": "3.1M",
+      "gender_demographic": "Men 63%",
+      "engagement_rate": "28.9%",
+      "weekly_reach": "9.1M"
+    },
+    "flat_rate": {
+      "tiktok": [
+        {"1_video": 2900},
+        {"2_videos": 4700},
+        {"3_videos": 6500}
+      ],
+      "reposted_to_yt_and_ig": "+50% of flat rate"
+    },
+    "cpm_rate": {
+      "tiktok": [
+        {"1_video": "10 CPM"},
+        {"2_videos": "8 CPM"},
+        {"3_videos": "5 CPM"}
+      ],
+      "max_cpm": 20000,
+      "min_cpm": 500
+    },
+    "ugc": {
+      "tiktok": [
+        {"1_video": 2600},
+        {"2_videos": 4100},
+        {"3_videos": 5600}
+      ]
+    },
+    "usage_rights": {
+      "3_months": 550,
+      "6_months": 700,
+      "1_year_plus": 1100
+    }
+  }
