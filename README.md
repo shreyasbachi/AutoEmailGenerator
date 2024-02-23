@@ -1,4 +1,4 @@
-# AutoEmailGenerator
+# Automatic Email Response Generator
 
 This project is an automatic email response generator tailored for content creators, designed to streamline their workflow by efficiently handling collaboration requests via email. Leveraging a custom dataset, the system intelligently processes incoming emails to identify potential collaboration opportunities. Upon detection, it automatically crafts and sends personalized responses, ensuring timely and relevant communication with potential collaborators. This solution not only saves time but also enhances the engagement process, allowing content creators to focus more on their creative work while maintaining productive partnerships.
 
