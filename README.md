@@ -8,19 +8,19 @@ This Python-based project aims to streamline email handling by automatically che
 
 ## Getting Started
 
-Install the source code, the user data set, and both the prompt .txt files in your directory.
+Install the source code `GenLocal.ipynb`, the user data set `user_data.json`, and both the prompt .txt files `prompt.txt` `prompt2.txt` in your directory.
 
 ### Dependencies
 
 - Python 3.x
+- Jupyter Notebook
 - A Gmail account or any IMAP/SMTP compatible email service. Configure SMTP settings according to your email provider's requirements if not using Gmail.
-- An OpenAI API key (Note: Access to OpenAI's API is required for generating responses. Be aware that obtaining an OpenAI API key may incur costs.)
+- An OpenAI API key. **Note:** Access to OpenAI's API is required for generating responses. Be aware that obtaining an OpenAI API key may incur costs.)
 
 ### Required Libraries
 
-Install the required libraries using pip:
+Install the required libraries using pip. You can also run this cell in `GenLocal.ipynb`.
   - pip install openai==0.28 python-dotenv
-You can also run this command in the code provided.
 
 ### Setting up Environment Variables
 
